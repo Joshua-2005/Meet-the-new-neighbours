@@ -12,13 +12,6 @@ console.log(temperature);
 // Boolean
 let isSunny = true;
 console.log(isSunny);
-// Object
-let person = {
-  firstName: "John",
-  lastName: "Doe",
-  age: 25
-};
-console.log(firstName);
 // Array
 let colors = ["red", "green", "blue"];
 console.log(colors);
@@ -44,5 +37,12 @@ let fruits = ["apple", "banana", "mango"];
 
 // Accessing elements
 console.log(fruits[0]);  
+// Object
+let person = {
+  firstName: "John",
+  lastName: "Doe",
+  age: 25
+};
+console.log(firstName);
 
 
